@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Thibault Maho
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student \n Input Space Exploration for the Security of Neural Network Models
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: INRIA Rennes
+    url: https://www.inria.fr/fr/centre-inria-universite-rennes
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Security of machine learning
+  - Black-box Attacks and Defenses
+  - Model Fingerprinting
+  - Model Inversion
 
 # Education to show in About widget
 education:
